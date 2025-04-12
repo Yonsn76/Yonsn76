@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola! Soy Yonsn
+¡Hola! Soy Yonsn.
 Un estudiante apasionado por la tecnología, la creatividad y el aprendizaje continuo. Cada día me esfuerzo por descubrir algo nuevo, desarrollar habilidades diferentes y desafiarme a mí mismo para crecer tanto personal como profesionalmente. Me considero una persona creativa, curiosa y siempre dispuesta a explorar distintas áreas del conocimiento.
 Gracias por visitar mi perfil. 🚀✨
 
