@@ -1,14 +1,14 @@
-# 💫 About Me:
+# 💫 Sobre mí:
 ¡Hola! Soy Yonsn.<br>
 Un estudiante apasionado por la tecnología, la creatividad y el aprendizaje continuo. Cada día me esfuerzo por descubrir algo nuevo, desarrollar habilidades diferentes y desafiarme a mí mismo para crecer tanto personal como profesionalmente. Me considero una persona creativa, curiosa y siempre dispuesta a explorar distintas áreas del conocimiento.
 Gracias por visitar mi perfil. 🚀✨
 
 <div align="center">
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:retobloyons@gmail.com) 
+## 🌐 Redes sociales:
+[![email](https://img.shields.io/badge/Correo-D14836?logo=gmail&logoColor=white)](mailto:retobloyons@gmail.com) 
 
-# 💻 Tech Stack:
+# 💻 Tecnologías 5%:
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -19,7 +19,7 @@ Gracias por visitar mi perfil. 🚀✨
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) 
 ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)
 
-# 📊 GitHub Stats:
+# 📊 Estadísticas de GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=Yonsn76&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Yonsn76&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yonsn76&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -29,4 +29,4 @@ Gracias por visitar mi perfil. 🚀✨
 
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Orgullosamente creado con GPRM ( https://gprm.itsvg.in ) -->
