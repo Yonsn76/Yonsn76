@@ -37,7 +37,6 @@
       <circle class="pulse" r="5" fill="#2F9E7A"><animate attributeName="fill" values="#EF4444;#FACC15;#3B82F6;#FFFFFF;#EF4444" keyTimes="0;0.25;0.5;0.75;1" dur="8s" repeatCount="indefinite" calcMode="linear"/></circle>
       <g fill="#FFFFFF" stroke="#2F9E7A"><circle cy="-74" r="6"/><circle cx="64" cy="-37" r="6"/><circle cx="64" cy="37" r="6"/><circle cy="74" r="6"/><circle cx="-64" cy="37" r="6"/><circle cx="-64" cy="-37" r="6"/></g></g>
       <text x="973" y="247" class="micro" fill="#506D7A">CLOSED LOOP</text>
-      <text x="22" y="288" class="micro" fill="#5EC8F0">EXECUTION PATH / 08 ACTIVE LAYERS</text>
       <g transform="translate(22.0 270)" opacity="0">
         <animate attributeName="opacity"
           values="0;0;1;1"
