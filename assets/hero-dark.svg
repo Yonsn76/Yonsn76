@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="TomsonLu profile control plane" data-mode="dark">
+      <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07131A"/><stop offset="1" stop-color="#10141F"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#2F9E7A"/><stop offset="1" stop-color="#5EC8F0"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#17313C" stroke-width="1"/></pattern>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="frame"><rect x="1" y="1" width="1198" height="358" rx="18"/></clipPath>
+  </defs><style>
+    text{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono",monospace}
+    .label{font-size:12px;letter-spacing:3px;font-weight:700}.micro{font-size:10px;letter-spacing:2px}
+    .flow{stroke-dasharray:7 9;animation:flow 8s linear infinite}.pulse{transform-box:fill-box;transform-origin:center;animation:pulse 2.4s ease-in-out infinite}
+    .orbit{transform-box:fill-box;transform-origin:center;animation:orbit 24s linear infinite}.blink{animation:blink 2s ease-in-out infinite}
+    @keyframes flow{to{stroke-dashoffset:-160}}@keyframes pulse{50%{opacity:.35;transform:scale(.72)}}
+    @keyframes orbit{to{transform:rotate(360deg)}}@keyframes blink{50%{opacity:.35}}
+    @media(prefers-reduced-motion:reduce){.flow,.pulse,.orbit,.blink{animation:none}
+      .mascot animateMotion,.mascot animateTransform,.mascot animate{animation:none!important;display:none}}
+  </style>
+      <g clip-path="url(#frame)"><rect width="1200" height="360" fill="url(#bg)"/><rect width="1200" height="360" fill="url(#grid)" opacity=".7"/>
+      <path d="M0 292C240 250 360 176 566 84S930 20 1200 0V360H0Z" fill="#2F9E7A" opacity=".035"/>
+      <path d="M660 0l290 360h250V0Z" fill="#5EC8F0" opacity=".04"/>
+      <path d="M0 1h1200" stroke="url(#accent)" stroke-width="2"/>
+      <g transform="translate(22 22)"><circle cx="0" cy="0" r="4" fill="#EF4B5A"/><circle cx="18" cy="0" r="4" fill="#E6A425"/><circle cx="36" cy="0" r="4" fill="#22A447"/>
+      <text x="58" y="4" class="micro" fill="#8BA9B5">TOMSONLU / CONTROL_PLANE</text></g>
+      <g transform="translate(1046 22)"><circle class="blink" cx="0" cy="0" r="4" fill="#2F9E7A" filter="url(#glow)"/><text x="14" y="4" class="micro" fill="#8BA9B5">SYSTEM ONLINE</text></g>
+      <path d="M0 44h1200" stroke="#2B4A57"/>
+      <text x="38" y="91" class="label" fill="#2F9E7A">// BUILDING THE INFRASTRUCTURE LAYER</text>
+      <text x="38" y="159" font-size="52" font-weight="900" letter-spacing="-2" fill="#E7F7FC">BUILD · SENSE</text><text x="38" y="218" font-size="45" font-weight="900" letter-spacing="-1.5" fill="#E7F7FC">· AUTOMATE</text>
+      <text x="40" y="252" font-size="13" letter-spacing="2" fill="#8BA9B5">SISTEMAS WEB, VISIÓN POR COMPUTADORA, IOT Y AGENTES — DE LA IDEA AL PRO…</text>
+      <g transform="translate(1018 151)"><circle r="74" fill="none" stroke="#2B4A57"/><circle class="orbit" r="57" fill="none" stroke="#2F9E7A" stroke-width="1.5" stroke-dasharray="8 10" opacity=".65"/>
+      <g stroke="#2F9E7A" opacity=".6"><path d="M0-74V-25M64-37L22-13M64 37L22 13M0 74V25M-64 37L-22 13M-64-37L-22-13"/></g>
+      <circle r="18" fill="#0C1C24" stroke="#2F9E7A" filter="url(#glow)"><animate attributeName="stroke" values="#EF4444;#FACC15;#3B82F6;#FFFFFF;#EF4444" keyTimes="0;0.25;0.5;0.75;1" dur="8s" repeatCount="indefinite" calcMode="linear"/></circle>
+      <circle class="pulse" r="5" fill="#2F9E7A"><animate attributeName="fill" values="#EF4444;#FACC15;#3B82F6;#FFFFFF;#EF4444" keyTimes="0;0.25;0.5;0.75;1" dur="8s" repeatCount="indefinite" calcMode="linear"/></circle>
+      <g fill="#0C1C24" stroke="#2F9E7A"><circle cy="-74" r="6"/><circle cx="64" cy="-37" r="6"/><circle cx="64" cy="37" r="6"/><circle cy="74" r="6"/><circle cx="-64" cy="37" r="6"/><circle cx="-64" cy="-37" r="6"/></g></g>
+      <text x="973" y="247" class="micro" fill="#8BA9B5">CLOSED LOOP</text>
+      <text x="22" y="288" class="micro" fill="#5EC8F0">EXECUTION PATH / 08 ACTIVE LAYERS</text>
+      <g transform="translate(22.0 304)">
+        <rect width="134.0" height="38" rx="5" fill="#0C1C24" fill-opacity=".82" stroke="#2F9E7A" stroke-opacity=".65"/>
+        <circle class="pulse" cx="14" cy="19" r="3" fill="#2F9E7A"/>
+        <path d="M24 19h100.0" stroke="#2F9E7A" stroke-opacity=".18" stroke-dasharray="7 9"/>
+        <text x="67.0" y="16" text-anchor="middle" font-size="8" letter-spacing="1.3" fill="#8BA9B5">LEARN</text>
+        <text x="67.0" y="29" text-anchor="middle" font-size="9" font-weight="700" fill="#2F9E7A">education</text>
+      </g><g transform="translate(168.0 304)">
+        <rect width="134.0" height="38" rx="5" fill="#0C1C24" fill-opacity=".82" stroke="#2F9E7A" stroke-opacity=".65"/>
+        <circle class="pulse" cx="14" cy="19" r="3" fill="#2F9E7A"/>
+        <path d="M24 19h100.0" stroke="#2F9E7A" stroke-opacity=".18" stroke-dasharray="7 9"/>
+        <text x="67.0" y="16" text-anchor="middle" font-size="8" letter-spacing="1.3" fill="#8BA9B5">FEEL</text>
+        <text x="67.0" y="29" text-anchor="middle" font-size="9" font-weight="700" fill="#2F9E7A">emotion</text>
+      </g><g transform="translate(314.0 304)">
+        <rect width="134.0" height="38" rx="5" fill="#0C1C24" fill-opacity=".82" stroke="#2F9E7A" stroke-opacity=".65"/>
+        <circle class="pulse" cx="14" cy="19" r="3" fill="#2F9E7A"/>
+        <path d="M24 19h100.0" stroke="#2F9E7A" stroke-opacity=".18" stroke-dasharray="7 9"/>
+        <text x="67.0" y="16" text-anchor="middle" font-size="8" letter-spacing="1.3" fill="#8BA9B5">SEE</text>
+        <text x="67.0" y="29" text-anchor="middle" font-size="9" font-weight="700" fill="#2F9E7A">vision</text>
+      </g><g transform="translate(460.0 304)">
+        <rect width="134.0" height="38" rx="5" fill="#0C1C24" fill-opacity=".82" stroke="#2F9E7A" stroke-opacity=".65"/>
+        <circle class="pulse" cx="14" cy="19" r="3" fill="#2F9E7A"/>
+        <path d="M24 19h100.0" stroke="#2F9E7A" stroke-opacity=".18" stroke-dasharray="7 9"/>
+        <text x="67.0" y="16" text-anchor="middle" font-size="8" letter-spacing="1.3" fill="#8BA9B5">SENSE</text>
+        <text x="67.0" y="29" text-anchor="middle" font-size="9" font-weight="700" fill="#2F9E7A">iot</text>
+      </g><g transform="translate(606.0 304)">
+        <rect width="134.0" height="38" rx="5" fill="#0C1C24" fill-opacity=".82" stroke="#5EC8F0" stroke-opacity=".65"/>
+        <circle class="pulse" cx="14" cy="19" r="3" fill="#5EC8F0"/>
+        <path d="M24 19h100.0" stroke="#5EC8F0" stroke-opacity=".18" stroke-dasharray="7 9"/>
+        <text x="67.0" y="16" text-anchor="middle" font-size="8" letter-spacing="1.3" fill="#8BA9B5">CHAT</text>
+        <text x="67.0" y="29" text-anchor="middle" font-size="9" font-weight="700" fill="#5EC8F0">multi-ai</text>
+      </g><g transform="translate(752.0 304)">
+        <rect width="134.0" height="38" rx="5" fill="#0C1C24" fill-opacity=".82" stroke="#5EC8F0" stroke-opacity=".65"/>
+        <circle class="pulse" cx="14" cy="19" r="3" fill="#5EC8F0"/>
+        <path d="M24 19h100.0" stroke="#5EC8F0" stroke-opacity=".18" stroke-dasharray="7 9"/>
+        <text x="67.0" y="16" text-anchor="middle" font-size="8" letter-spacing="1.3" fill="#8BA9B5">AGENT</text>
+        <text x="67.0" y="29" text-anchor="middle" font-size="9" font-weight="700" fill="#5EC8F0">automation</text>
+      </g><g transform="translate(898.0 304)">
+        <rect width="134.0" height="38" rx="5" fill="#0C1C24" fill-opacity=".82" stroke="#5EC8F0" stroke-opacity=".65"/>
+        <circle class="pulse" cx="14" cy="19" r="3" fill="#5EC8F0"/>
+        <path d="M24 19h100.0" stroke="#5EC8F0" stroke-opacity=".18" stroke-dasharray="7 9"/>
+        <text x="67.0" y="16" text-anchor="middle" font-size="8" letter-spacing="1.3" fill="#8BA9B5">OPS</text>
+        <text x="67.0" y="29" text-anchor="middle" font-size="9" font-weight="700" fill="#5EC8F0">systems</text>
+      </g><g transform="translate(1044.0 304)">
+        <rect width="134.0" height="38" rx="5" fill="#0C1C24" fill-opacity=".82" stroke="#5EC8F0" stroke-opacity=".65"/>
+        <circle class="pulse" cx="14" cy="19" r="3" fill="#5EC8F0"/>
+        <path d="M24 19h100.0" stroke="#5EC8F0" stroke-opacity=".18" stroke-dasharray="7 9"/>
+        <text x="67.0" y="16" text-anchor="middle" font-size="8" letter-spacing="1.3" fill="#8BA9B5">CREATE</text>
+        <text x="67.0" y="29" text-anchor="middle" font-size="9" font-weight="700" fill="#5EC8F0">product</text>
+      </g></g>
+      <rect x="1" y="1" width="1198" height="358" rx="18" fill="none" stroke="#2F9E7A" stroke-opacity=".72"/>
+    </svg>
